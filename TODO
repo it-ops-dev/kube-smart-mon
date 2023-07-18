@@ -1,4 +1,3 @@
 TODO: Improve megaraid monitor, e.g.
       change type to megaraid, and report as disk megaraid, not type
       Migrate to use smartctl json output (more predictable output/key value pairs)
-Upload grafana dashboards (general, detailed)
